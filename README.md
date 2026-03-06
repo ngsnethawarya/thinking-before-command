@@ -1,2 +1,3 @@
-# thinking-before-command
-A reminder to think before running commands.
+Every command changes something.
+
+Pausing to think before pressing enter prevents most mistakes.
